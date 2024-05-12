@@ -4,3 +4,4 @@ git status
 git add allgitcomand.txt
 git log
 git commit -m "gitcommand file"
+git commit -a -m "git commit without staching"
