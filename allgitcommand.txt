@@ -8,3 +8,4 @@ git commit -a -m "git commit without staching"
 git diff
 git diff --staged
 git add .
+git rm --cached filename
