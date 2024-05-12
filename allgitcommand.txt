@@ -1,11 +1,11 @@
 git status
 git init
-git status
-git add allgitcomand.txt
+git init -b branch-name
+git add allgitcomand.txt for staching 
 git log
 git commit -m "gitcommand file"
 git commit -a -m "git commit without staching"
 git diff
 git diff --staged
 git add .
-git rm --cached filename
+git rm --cached filename for deleting
